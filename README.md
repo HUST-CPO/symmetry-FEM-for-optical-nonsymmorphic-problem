@@ -9,4 +9,4 @@ The Open-source MATLAB package nonsymmorphic symmetry adapted FEM (NSA-FEM) is a
 ### Main function of FEM
 1. `Bandgap.m`: Main function of the NSA-FEM to compute the band structure of the model in nonsymmorphic symmetry configuration.
 ### Run examples
-Run the script `Assembel.m`(`Assembel2.m`) to calculate sparse matrices A and B. Run the script `Bandgap.m`to calculate the band structure.
+Run the `Assembel.m`(`Assembel2.m`) to calculate sparse matrices A and B. Run the `Bandgap.m`to calculate the band structure.
